@@ -1,0 +1,16 @@
+{
+  "experiment_id": "exp_test_123",
+  "timestamp": "2025-10-03T22:19:43.627641",
+  "model_type": "linear",
+  "dataset": "iris",
+  "train_score": 0.975,
+  "test_score": 0.9666666666666667,
+  "cv_mean": 0.9666666666666668,
+  "cv_std": 0.016666666666666653,
+  "training_samples": 120,
+  "test_samples": 30,
+  "features": 4,
+  "is_classification": true,
+  "accuracy": 0.9666666666666667,
+  "classes": 3
+}

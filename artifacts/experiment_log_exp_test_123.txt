@@ -1,0 +1,38 @@
+
+ML Experiment Log
+=================
+
+Experiment ID: exp_test_123
+Timestamp: 2025-10-03T22:19:44.706164
+Model Type: ModelType.LINEAR
+Dataset: DatasetType.IRIS
+
+Configuration:
+- Test Size: 0.2
+- Random State: 42
+- Parameters: {}
+
+Results:
+- Training Score: 0.9750
+- Test Score: 0.9667
+- CV Mean: 0.9667
+- CV Std: 0.0167
+
+Dataset Info:
+- Total Samples: 150
+- Features: 4
+- Training Samples: 120
+- Test Samples: 30
+- Is Classification: True
+
+Model Performance:
+- Accuracy: 0.9667
+- Classes: 3
+
+Artifacts Generated:
+- Model: artifacts/model_exp_test_123.pkl
+- Metrics: metrics_exp_test_123.json
+- Plot: performance_exp_test_123.png
+- Log: experiment_log_exp_test_123.txt
+
+Experiment completed successfully.

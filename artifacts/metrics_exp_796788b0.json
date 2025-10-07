@@ -1,0 +1,16 @@
+{
+  "experiment_id": "exp_796788b0",
+  "timestamp": "2025-10-03T23:05:59.004007",
+  "model_type": "random_forest",
+  "dataset": "wine",
+  "train_score": 1.0,
+  "test_score": 1.0,
+  "cv_mean": 0.9862068965517242,
+  "cv_std": 0.027586206896551738,
+  "training_samples": 142,
+  "test_samples": 36,
+  "features": 13,
+  "is_classification": true,
+  "accuracy": 1.0,
+  "classes": 3
+}
